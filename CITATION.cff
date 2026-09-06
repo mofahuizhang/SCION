@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Shao"
+    given-names: "Shoupeng"
+    alias: "魔法徽章"
+title: "SCION: Prompt Semantic Addressing — An External Semantic Control Layer for Large Language Models"
+version: 2.1
+date-released: "2026-09-06"
+url: "https://gitee.com/mofahuizhang/SCION"
+license:
+  - "CC-BY-NC-4.0"
+abstract: "SCION (Semantic Control and Input Orientation Navigation) is a theoretical framework for prompt engineering grounded in the Cognitive Semantic Primitive Triad (CSMT/CCT). It formalizes prompts as an external semantic control layer with four actions (anchor/inject/control-startpoint/constrain-expansion) and four anchor types (content/style/construal/compound). The framework provides quantifiable dimensions (cognitive leverage, compression ratio, anchoring confidence, depth control precision), falsifiable conditions, and empirical validation (E-series experiments). It maintains a limited linkage with SUI (Semantic Unified Interface), sharing the D29/T13a axiom base while evolving independently."
+keywords:
+  - "prompt engineering"
+  - "semantic addressing"
+  - "large language models"
+  - "cognitive coding theory"
+  - "external semantic control"
+  - "prompt as asset"
+  - "semantic seed packet"
+  - "grafting metaphor"
